@@ -1,5 +1,5 @@
 
-## Hi there 👋
+## Opa Bão👍
 
 **Boas vindas ao meu perfil 💙💙**
 
@@ -18,5 +18,3 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 00001114832297ap@al.educacao.sp.gov.br
 
 @wendelnevezx
-
-![](https://tenor.com/pt-BR/view/really-burning-rubber-burnout-fire-gif-12479990)
