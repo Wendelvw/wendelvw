@@ -1,16 +1,22 @@
+
 ## Hi there 👋
 
-<!--
-**Wendelvw/wendelvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Boas vindas ao meu perfil 💙💙**
 
-Here are some ideas to get you started:
+É um prazer em receber você no meu perfil. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Meu nome é Wendel Neves**
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+**Você pode entrar em contato comigo 📫**
+
+00001114832297ap@al.educacao.sp.gov.br
+
+@wendelnevezx
+
+![](https://tenor.com/pt-BR/view/really-burning-rubber-burnout-fire-gif-12479990)
